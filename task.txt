@@ -1,3 +1,7 @@
 - basic model creation 
 - convert output to json serializable
 - read data from mysql and insert data into mysql table.
+
+
+
+- at the end update or create in appointment table
